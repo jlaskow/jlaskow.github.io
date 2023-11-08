@@ -1,0 +1,8 @@
+---
+title: "index"
+output: html_document
+date: "2023-11-08"
+---
+
+Why are we here? 
+Just here to suffer?
