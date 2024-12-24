@@ -60,10 +60,10 @@ permalink: /projects/
 
       <!-- Slide 3 -->
    <div class="item">
-        <img src="img/portfolio/project3.jpg" class="project-image" alt="Project 3">
+        <img src="img/projects/ensemble.jpg" class="project-image" alt="Project 3">
         <div class="carousel-caption">
-          <h3>Project 3: E-commerce Platform</h3>
-          <p>This project showcases an e-commerce website built with React and Node.js. It supports product browsing, shopping carts, and checkout functionality.</p>
+          <h3>Advanced Predictive Modeling Techniques to Anticipate Medical Expenses Among Smokers and Non-Smokers</h3>
+          <p>An independent project seeking to use a multitude of analytical tools and stacked ensembling techniques to build reliable predictions of patient medical expenses.</p>
         </div>
       </div>
     </div>
