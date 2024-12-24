@@ -78,7 +78,7 @@ permalink: /projects/
 
   <!-- Grid of Projects Below the Carousel -->
 
-  <h2></h2>
+  <h2>All Projects</h2>
 
   <div class="row">
     <!-- Project 1 -->
