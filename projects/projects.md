@@ -80,7 +80,8 @@ permalink: /projects/
 
   <!-- Grid of Projects Below the Carousel -->
 
-  
+  <h2></h2>
+
   <div class="row">
     <!-- Project 1 -->
     <div class="col-lg-4 col-md-6">
