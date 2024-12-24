@@ -27,7 +27,7 @@ permalink: /projects/
 <body>
 
 <div class="container">
-  <h2>Project Carousel</h2>  
+  <h2></h2>  
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
