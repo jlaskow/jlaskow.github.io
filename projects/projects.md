@@ -18,8 +18,8 @@ permalink: /projects/
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
     .project-image {
-      width: 500px;
-      height: 500px;
+      width: 300px;
+      height: 300px;
       object-fit: cover; /* Ensures images fit well without distortion */
     }
   </style>
