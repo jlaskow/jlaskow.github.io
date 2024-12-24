@@ -49,10 +49,12 @@ permalink: /projects/
 
       <!-- Slide 2 -->
   <div class="item">
-        <img src="img/portfolio/project2.jpg" class="project-image" alt="Project 2">
+        <img src="img/projects/income.png" class="project-image" alt="Project 2">
         <div class="carousel-caption">
-          <h3>Project 2: Data Visualization</h3>
-          <p>A data visualization project using D3.js to create interactive charts. The data includes information on sales trends over the past year.</p>
+          <h3>Deciphering Earnings</h3>
+          <p>
+           A collaborative project utilizing binomial classification techniques to predict income levels above $50K. 
+          </p>
         </div>
       </div>
 
