@@ -5,6 +5,9 @@ permalink: /projects/
 ---
 
 
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,13 +33,14 @@ permalink: /projects/
       <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 
+    <!-- Wrapper for slides -->
   <div class="carousel-inner">
       <!-- Slide 1 -->
       <div class="item active">
         <img src="img/portfolio/project1.jpg" alt="Project 1" style="width:100%;">
         <div class="carousel-caption">
-          <h3>Project 1</h3>
-          <p>Brief description of Project 1.</p>
+          <h3>Project 1: Web Development</h3>
+          <p>This project involves creating a responsive website using HTML, CSS, and JavaScript. The site features a dynamic navigation menu and interactive elements.</p>
         </div>
       </div>
 
@@ -44,23 +48,24 @@ permalink: /projects/
   <div class="item">
         <img src="img/portfolio/project2.jpg" alt="Project 2" style="width:100%;">
         <div class="carousel-caption">
-          <h3>Project 2</h3>
-          <p>Brief description of Project 2.</p>
+          <h3>Project 2: Data Visualization</h3>
+          <p>A data visualization project using D3.js to create interactive charts. The data includes information on sales trends over the past year.</p>
         </div>
       </div>
     
       <!-- Slide 3 -->
-   <div class="item">
+  <div class="item">
         <img src="img/portfolio/project3.jpg" alt="Project 3" style="width:100%;">
         <div class="carousel-caption">
-          <h3>Project 3</h3>
-          <p>Brief description of Project 3.</p>
+          <h3>Project 3: E-commerce Platform</h3>
+          <p>This project showcases an e-commerce website built with React and Node.js. It supports product browsing, shopping carts, and checkout functionality.</p>
         </div>
       </div>
     </div>
 
     <!-- Left and right controls -->
- <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+  
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
     </a>
@@ -73,4 +78,3 @@ permalink: /projects/
 
 </body>
 </html>
-
