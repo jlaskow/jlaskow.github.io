@@ -7,7 +7,6 @@ permalink: /projects/
 
 
 
-
 <div id="projectsCarousel" class="carousel slide" data-bs-ride="carousel">
 
   <!-- Indicators -->
@@ -19,13 +18,13 @@ permalink: /projects/
 
   <!-- Carousel Items -->
   <div class="carousel-inner">
-
+    
     <!-- Slide 1 -->
     <div class="carousel-item active">
       <img src="/assets/images/project1.jpg" class="d-block w-100" alt="Project 1">
       <div class="carousel-caption d-none d-md-block">
         <h5><a href="https://github.com/username/project1" target="_blank">Project 1</a></h5>
-        <p>A brief description of Project 1.</p>
+        <p>A brief description of Project 1. This is a long description explaining the project in detail.</p>
       </div>
     </div>
 
@@ -34,7 +33,7 @@ permalink: /projects/
       <img src="/assets/images/project2.jpg" class="d-block w-100" alt="Project 2">
       <div class="carousel-caption d-none d-md-block">
         <h5><a href="https://github.com/username/project2" target="_blank">Project 2</a></h5>
-        <p>A brief description of Project 2.</p>
+        <p>A brief description of Project 2. This is a long description explaining the project in detail.</p>
       </div>
     </div>
 
@@ -43,7 +42,7 @@ permalink: /projects/
       <img src="/assets/images/project3.jpg" class="d-block w-100" alt="Project 3">
       <div class="carousel-caption d-none d-md-block">
         <h5><a href="https://github.com/username/project3" target="_blank">Project 3</a></h5>
-        <p>A brief description of Project 3.</p>
+        <p>A brief description of Project 3. This is a long description explaining the project in detail.</p>
       </div>
     </div>
 
