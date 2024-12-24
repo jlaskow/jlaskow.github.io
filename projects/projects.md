@@ -4,7 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-<!---DOCTYPE html --->
+
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -17,17 +20,31 @@ permalink: /projects/
   <!-- Bootstrap JS -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
-    .project-image {
-      width: 300px;
+    /* Carousel Styling */
+    .carousel-inner {
+      text-align: center; /* Center-align images */
+    }
+    .carousel-inner .item img {
+      display: block;
+      max-width: 100%; /* Ensure responsiveness */
+      height: auto; /* Maintain aspect ratio */
+      margin: 0 auto; /* Center images */
+    }
+
+    /* Uniform size for images in the grid */
+
+  .project-image {
+      width: 100%; /* Make it responsive */
       height: 300px;
-      object-fit: cover; /* Ensures images fit well without distortion */
+      object-fit: cover; /* Crop images to fit without distortion */
     }
   </style>
 </head>
 <body>
 
 <div class="container">
-  <h2></h2>  
+  <!-- Carousel -->
+  <h2>Featured Projects</h2>  
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -37,10 +54,11 @@ permalink: /projects/
     </ol>
 
     <!-- Wrapper for slides -->
+
   <div class="carousel-inner">
       <!-- Slide 1 -->
       <div class="item active">
-        <img src="/img/projects/KOSPI.jpg" class="project-image" alt="KOSPI Project">
+        <img src="/img/projects/KOSPI.jpg" alt="KOSPI Project">
         <div class="carousel-caption">
           <h3>Assessing Time-Series Relationships Between South Korean KOSPI and U.S. NASDAQ</h3>
           <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
@@ -48,19 +66,19 @@ permalink: /projects/
       </div>
 
       <!-- Slide 2 -->
+  
   <div class="item">
-        <img src="/img/projects/income.jpg" class="project-image" alt="Project 2">
+        <img src="/img/projects/income.jpg" alt="Project 2">
         <div class="carousel-caption">
           <h3>Deciphering Earnings</h3>
-          <p>
-           A collaborative project utilizing binomial classification techniques to predict income levels above $50K. 
-          </p>
+          <p>A collaborative project utilizing binomial classification techniques to predict income levels above $50K.</p>
         </div>
       </div>
 
       <!-- Slide 3 -->
-   <div class="item">
-        <img src="/img/projects/ensemble.jpg" class="project-image" alt="Project 3">
+  
+  <div class="item">
+        <img src="/img/projects/ensemble.jpg" alt="Project 3">
         <div class="carousel-caption">
           <h3>Advanced Predictive Modeling Techniques to Anticipate Medical Expenses Among Smokers and Non-Smokers</h3>
           <p>An independent project seeking to use a multitude of analytical tools and stacked ensembling techniques to build reliable predictions of patient medical expenses.</p>
@@ -68,7 +86,7 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Left and right controls --
+    <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
@@ -105,7 +123,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 3 -->
-  <div class="col-lg-4 col-md-6">
+   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
         <img src="img/portfolio/project6.jpg" class="project-image" alt="Project 6">
         <div class="caption">
@@ -114,8 +132,6 @@ permalink: /projects/
         </div>
       </div>
     </div>
-
-    <!-- Add more projects here as needed -->
   </div>
 </div>
 
