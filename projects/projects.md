@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-
-
 <!---DOCTYPE html --->
 <html lang="en">
 <head>
@@ -18,6 +16,13 @@ permalink: /projects/
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <!-- Bootstrap JS -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    .project-image {
+      width: 100px;
+      height: 100px;
+      object-fit: cover; /* Ensures images fit well without distortion */
+    }
+  </style>
 </head>
 <body>
 
@@ -32,11 +37,10 @@ permalink: /projects/
     </ol>
 
     <!-- Wrapper for slides -->
-   
   <div class="carousel-inner">
       <!-- Slide 1 -->
       <div class="item active">
-        <img src="/img/projects/KOSPI.jpg" style="width:100%;">
+        <img src="/img/projects/KOSPI.jpg" class="project-image" alt="KOSPI Project">
         <div class="carousel-caption">
           <h3>Assessing Time-Series Relationships Between South Korean KOSPI and U.S. NASDAQ</h3>
           <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
@@ -44,19 +48,17 @@ permalink: /projects/
       </div>
 
       <!-- Slide 2 -->
-     
   <div class="item">
-        <img src="img/portfolio/project2.jpg" alt="Project 2" style="width:100%;">
+        <img src="img/portfolio/project2.jpg" class="project-image" alt="Project 2">
         <div class="carousel-caption">
           <h3>Project 2: Data Visualization</h3>
           <p>A data visualization project using D3.js to create interactive charts. The data includes information on sales trends over the past year.</p>
         </div>
       </div>
-    
+
       <!-- Slide 3 -->
-  
-  <div class="item">
-        <img src="img/portfolio/project3.jpg" alt="Project 3" style="width:100%;">
+   <div class="item">
+        <img src="img/portfolio/project3.jpg" class="project-image" alt="Project 3">
         <div class="carousel-caption">
           <h3>Project 3: E-commerce Platform</h3>
           <p>This project showcases an e-commerce website built with React and Node.js. It supports product browsing, shopping carts, and checkout functionality.</p>
@@ -64,8 +66,7 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Left and right controls -->
-  
+    <!-- Left and right controls --
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
@@ -77,14 +78,12 @@ permalink: /projects/
   </div>
 
   <!-- Grid of Projects Below the Carousel -->
-
   <h2>All Projects</h2>
-
   <div class="row">
     <!-- Project 1 -->
     <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project4.jpg" alt="Project 4" style="width:100%;">
+        <img src="img/portfolio/project4.jpg" class="project-image" alt="Project 4">
         <div class="caption">
           <h3>Project 4: Mobile App</h3>
           <p>Developed a mobile app for tracking personal fitness goals. The app includes data visualization for progress tracking and goal setting.</p>
@@ -93,10 +92,9 @@ permalink: /projects/
     </div>
 
     <!-- Project 2 -->
-   
   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project5.jpg" alt="Project 5" style="width:100%;">
+        <img src="img/portfolio/project5.jpg" class="project-image" alt="Project 5">
         <div class="caption">
           <h3>Project 5: Machine Learning</h3>
           <p>A machine learning project using TensorFlow to predict stock prices based on historical data. Implemented regression models and evaluated performance metrics.</p>
@@ -105,10 +103,9 @@ permalink: /projects/
     </div>
 
     <!-- Project 3 -->
-  
   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project6.jpg" alt="Project 6" style="width:100%;">
+        <img src="img/portfolio/project6.jpg" class="project-image" alt="Project 6">
         <div class="caption">
           <h3>Project 6: Blogging Platform</h3>
           <p>Built a blogging platform where users can post articles, comment, and like posts. Utilized Django for the back-end and Bootstrap for the front-end.</p>
@@ -117,7 +114,6 @@ permalink: /projects/
     </div>
 
     <!-- Add more projects here as needed -->
-
   </div>
 </div>
 
