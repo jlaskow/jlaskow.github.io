@@ -49,7 +49,7 @@ permalink: /projects/
 
       <!-- Slide 2 -->
   <div class="item">
-        <img src="img/projects/income.png" class="project-image" alt="Project 2">
+        <img src="/img/projects/income.jpg" class="project-image" alt="Project 2">
         <div class="carousel-caption">
           <h3>Deciphering Earnings</h3>
           <p>
