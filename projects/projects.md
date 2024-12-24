@@ -36,7 +36,7 @@ permalink: /projects/
   <div class="carousel-inner">
       <!-- Slide 1 -->
       <div class="item active">
-        <img src="img/projects/KOSPI.jpg" style="width:100%;">
+        <img src="/img/projects/KOSPI.jpg" style="width:100%;">
         <div class="carousel-caption">
           <h3>Assessing Time-Series Relationships Between South Korean KOSPI and U.S. NASDAQ</h3>
           <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
