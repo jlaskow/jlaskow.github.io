@@ -7,6 +7,7 @@ permalink: /projects/
 
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,23 +21,15 @@ permalink: /projects/
   <!-- Bootstrap JS -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
-    /* Carousel Styling */
-    .carousel-inner {
-      text-align: center; /* Center-align images */
-    }
-    .carousel-inner .item img {
-      display: block;
-      max-width: 100%; /* Ensure responsiveness */
-      height: auto; /* Maintain aspect ratio */
-      margin: 0 auto; /* Center images */
-    }
-
-    /* Uniform size for images in the grid */
-
-  .project-image {
-      width: 100%; /* Make it responsive */
+    /* Styling for uniform image sizes */
+    img {
+      width: 300px;
       height: 300px;
-      object-fit: cover; /* Crop images to fit without distortion */
+      object-fit: cover; /* Ensures images fit within dimensions without distortion */
+    }
+
+  .carousel-inner {
+      text-align: center; /* Center-align images */
     }
   </style>
 </head>
@@ -54,7 +47,7 @@ permalink: /projects/
     </ol>
 
     <!-- Wrapper for slides -->
-
+ 
   <div class="carousel-inner">
       <!-- Slide 1 -->
       <div class="item active">
@@ -87,7 +80,8 @@ permalink: /projects/
     </div>
 
     <!-- Left and right controls -->
-  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+  
+<a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only">Previous</span>
     </a>
@@ -103,7 +97,7 @@ permalink: /projects/
     <!-- Project 1 -->
     <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project4.jpg" class="project-image" alt="Project 4">
+        <img src="img/portfolio/project4.jpg" alt="Project 4">
         <div class="caption">
           <h3>Project 4: Mobile App</h3>
           <p>Developed a mobile app for tracking personal fitness goals. The app includes data visualization for progress tracking and goal setting.</p>
@@ -112,9 +106,10 @@ permalink: /projects/
     </div>
 
     <!-- Project 2 -->
+
   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project5.jpg" class="project-image" alt="Project 5">
+        <img src="img/portfolio/project5.jpg" alt="Project 5">
         <div class="caption">
           <h3>Project 5: Machine Learning</h3>
           <p>A machine learning project using TensorFlow to predict stock prices based on historical data. Implemented regression models and evaluated performance metrics.</p>
@@ -123,9 +118,10 @@ permalink: /projects/
     </div>
 
     <!-- Project 3 -->
-   <div class="col-lg-4 col-md-6">
+  
+  <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project6.jpg" class="project-image" alt="Project 6">
+        <img src="img/portfolio/project6.jpg" alt="Project 6">
         <div class="caption">
           <h3>Project 6: Blogging Platform</h3>
           <p>Built a blogging platform where users can post articles, comment, and like posts. Utilized Django for the back-end and Bootstrap for the front-end.</p>
