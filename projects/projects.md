@@ -36,10 +36,10 @@ permalink: /projects/
   <div class="carousel-inner">
       <!-- Slide 1 -->
       <div class="item active">
-        <img src="img/portfolio/project1.jpg" alt="Project 1" style="width:100%;">
+        <img src="img/projects/KOSPI.jpg" style="width:100%;">
         <div class="carousel-caption">
-          <h3>Project 1: Web Development</h3>
-          <p>This project involves creating a responsive website using HTML, CSS, and JavaScript. The site features a dynamic navigation menu and interactive elements.</p>
+          <h3>Assessing Time-Series Relationships Between South Korean KOSPI and U.S. NASDAQ</h3>
+          <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
         </div>
       </div>
 
