@@ -13,7 +13,7 @@ permalink: /projects/
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bootstrap Carousel Example</title>
+  <title>Bootstrap Carousel & Project Grid</title>
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <!-- JQuery -->
@@ -34,6 +34,7 @@ permalink: /projects/
     </ol>
 
     <!-- Wrapper for slides -->
+   
   <div class="carousel-inner">
       <!-- Slide 1 -->
       <div class="item active">
@@ -45,6 +46,7 @@ permalink: /projects/
       </div>
 
       <!-- Slide 2 -->
+     
   <div class="item">
         <img src="img/portfolio/project2.jpg" alt="Project 2" style="width:100%;">
         <div class="carousel-caption">
@@ -54,6 +56,7 @@ permalink: /projects/
       </div>
     
       <!-- Slide 3 -->
+  
   <div class="item">
         <img src="img/portfolio/project3.jpg" alt="Project 3" style="width:100%;">
         <div class="carousel-caption">
@@ -73,6 +76,48 @@ permalink: /projects/
       <span class="glyphicon glyphicon-chevron-right"></span>
       <span class="sr-only">Next</span>
     </a>
+  </div>
+
+  <!-- Grid of Projects Below the Carousel -->
+  <h2>Other Projects</h2>
+  <div class="row">
+    <!-- Project 1 -->
+    <div class="col-lg-4 col-md-6">
+      <div class="thumbnail">
+        <img src="img/portfolio/project4.jpg" alt="Project 4" style="width:100%;">
+        <div class="caption">
+          <h3>Project 4: Mobile App</h3>
+          <p>Developed a mobile app for tracking personal fitness goals. The app includes data visualization for progress tracking and goal setting.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project 2 -->
+   
+  <div class="col-lg-4 col-md-6">
+      <div class="thumbnail">
+        <img src="img/portfolio/project5.jpg" alt="Project 5" style="width:100%;">
+        <div class="caption">
+          <h3>Project 5: Machine Learning</h3>
+          <p>A machine learning project using TensorFlow to predict stock prices based on historical data. Implemented regression models and evaluated performance metrics.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project 3 -->
+  
+  <div class="col-lg-4 col-md-6">
+      <div class="thumbnail">
+        <img src="img/portfolio/project6.jpg" alt="Project 6" style="width:100%;">
+        <div class="caption">
+          <h3>Project 6: Blogging Platform</h3>
+          <p>Built a blogging platform where users can post articles, comment, and like posts. Utilized Django for the back-end and Bootstrap for the front-end.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Add more projects here as needed -->
+
   </div>
 </div>
 
