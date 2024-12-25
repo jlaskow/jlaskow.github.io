@@ -98,9 +98,5 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Scripts should be placed at the end of body -->
-   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-   <script src="/projects/scripts.js"></script>
   </body>
 </html>
