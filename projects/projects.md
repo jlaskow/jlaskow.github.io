@@ -134,7 +134,7 @@ permalink: /projects/
       <div class="thumbnail">
         <div class="caption">
           <h3>Dragon's Hoard</h3>
-          <p>Cloud-based data pipeline for a low-cost, user-friendly CRM for wholesale distributors to track sale and contract leads.</p>
+          <p>Cloud-based data pipeline of a low-cost, user-friendly CRM for wholesale distributors to track sale and contract leads.</p>
         </div>
       </div>
     </div>
