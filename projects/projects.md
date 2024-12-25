@@ -6,7 +6,8 @@ permalink: /projects/
 
 
 
-<html lang="en">
+
+ <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,57 +19,78 @@ permalink: /projects/
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
     /* Styling for uniform image sizes */
-    img {
-      width: 300px;
-      height: 300px;
-      object-fit: cover; /* Ensures images fit within dimensions without distortion */
+    .carousel-inner img {
+      width: 50%; /* Adjust width as needed */
+      height: auto;
+      float: left; /* Align image to the left */
     }
 
-  .carousel-inner {
-      text-align: center; /* Center-align images */
+   .carousel-caption {
+      position: absolute;
+      right: 15%;
+      top: 50%;
+      transform: translateY(-50%);
+      color: black; /* Title and description in black */
+      text-align: left;
+      width: 40%;
+    }
+    
+  .carousel-caption h3 {
+      font-weight: bold;
+    }
+
+  .carousel {
+      position: relative;
     }
   </style>
 </head>
 <body>
-
-
-
-
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div class="container">
+  <!-- Carousel -->
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        <div class="item active">
-            <img src="/img/projects/KOSPI.jpg" alt="KOSPI Project">
-            <div class="carousel-caption">
-                <h3>NASDAQ Predictions: Assessing Time-Series Relationships Between South Korean KOSPI and U.S. NASDAQ</h3>
-                <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
-            </div>
+      <!-- Slide 1 -->
+      <div class="item active">
+        <img src="/img/projects/KOSPI.jpg" alt="KOSPI Project">
+        <div class="carousel-caption">
+          <h3>NASDAQ Predictions</h3>
+          <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
         </div>
-        <div class="item">
-            <img src="/img/projects/income.jpg" alt="Project 2">
-            <div class="carousel-caption">
-                <h3>Deciphering Earnings</h3>
-                <p>A collaborative project utilizing binomial classification techniques to predict income levels above $50K.</p>
-            </div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="item">
+        <img src="/img/projects/income.jpg" alt="Project 2">
+        <div class="carousel-caption">
+          <h3>Deciphering Earnings</h3>
+          <p>A collaborative project utilizing binomial classification techniques to predict income levels above $50K.</p>
         </div>
-        <div class="item">
-            <img src="/img/projects/ensemble.jpg" alt="Project 3">
-            <div class="carousel-caption">
-                <h3>Advanced Predictive Modeling Techniques</h3>
-                <p>Using stacked ensembling techniques to predict medical expenses.</p>
-            </div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="item">
+        <img src="/img/projects/ensemble.jpg" alt="Project 3">
+        <div class="carousel-caption">
+          <h3>Advanced Predictive Modeling Techniques</h3>
+          <p>An independent project seeking analytical tools and stacked ensembling techniques to predict patient medical expenses.</p>
         </div>
+      </div>
     </div>
-
     <!-- Left and right controls -->
-   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        <span class="sr-only">Previous</span>
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
     </a>
+  </div>
 </div>
+</body>
+
+
+
+
 
 
 
