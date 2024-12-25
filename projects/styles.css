@@ -19,7 +19,6 @@
 .carousel-item-container .carousel-caption {
   width: 48%;
   padding: 20px;
-  padding-left: 50 px;
   background-color: #f8f9fa;
   color: black;
   display: flex;
@@ -30,7 +29,6 @@
 .carousel-caption h3 {
   font-weight: bold;
   margin-bottom: 10px;
-  padding-left: 50 px;
 }
 
 /* Styling for "All Projects" section */
