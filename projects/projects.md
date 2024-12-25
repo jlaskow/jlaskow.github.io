@@ -4,6 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+
+{% comment %}
+  <a href="https://jlaskow.github.io/">jlaskow</a>
+{% endcomment %}
+
+
 <html lang="en">
 <head>
   <meta charset="utf-8">
