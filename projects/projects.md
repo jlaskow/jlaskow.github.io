@@ -7,11 +7,6 @@ permalink: /projects/
 <html lang="en">
 <head>
 
-  {% if false %}
-  <a href="https://jlaskow.github.io/">jlaskow</a>
-{% endif %}
-
-
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
