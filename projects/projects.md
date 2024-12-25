@@ -1,12 +1,3 @@
----
-layout: default
-title: Projects
-permalink: /projects/
----
-
-
-
-
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -18,48 +9,39 @@ permalink: /projects/
   <!-- Bootstrap JS -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
-    /* Styling for carousel layout */
+    /* General Carousel Styling */
     .carousel-inner {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 400px; /* Adjust height as needed */
+      height: 400px; /* Set a consistent height for the carousel */
     }
-
     .carousel-item-container {
       display: flex;
-      width: 100%;
       height: 100%;
     }
-
     .carousel-item-container img {
-      width: 50%; /* Left half for the image */
+      width: 50%; /* Fixed width for the image */
       height: 100%;
-      object-fit: cover; /* Keeps image proportions intact */
+      object-fit: cover; /* Maintains aspect ratio and fills the space */
     }
-
     .carousel-item-container .carousel-caption {
-      width: 50%; /* Right half for title and description */
+      width: 50%; /* Fixed width for text */
+      padding: 20px;
+      background-color: #f8f9fa; /* Light background for text readability */
+      color: black;
       display: flex;
       flex-direction: column;
       justify-content: center;
-      padding: 20px;
-      color: black;
-      background-color: #f8f9fa; /* Light background for better text readability */
+      align-items: flex-start; /* Align text to the left within the container */
     }
-
     .carousel-caption h3 {
       font-weight: bold;
       margin-bottom: 10px;
     }
-
     /* Styling for "All Projects" section */
     .thumbnail img {
       width: 100%; /* Make images responsive */
       height: 200px; /* Consistent height for thumbnails */
       object-fit: cover;
     }
-
     .thumbnail {
       text-align: center;
     }
