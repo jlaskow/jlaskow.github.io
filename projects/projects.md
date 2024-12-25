@@ -15,7 +15,6 @@ permalink: /projects/
 </head>
 
 <body>
-  <h1></h1>
   <div class="container">
     <h2>All Projects</h2>
     <div class="row">
