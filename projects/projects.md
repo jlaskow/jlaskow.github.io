@@ -1,3 +1,18 @@
+---
+
+layout: default
+title: Projects
+permalink: /projects/
+
+
+
+---
+
+
+
+
+
+
 <html lang="en">
 <head>
   <meta charset="utf-8">
