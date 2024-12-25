@@ -7,11 +7,10 @@ permalink: /projects/
 <html lang="en">
 <head>
 
-  
-
-{% comment %}
+  {% if false %}
   <a href="https://jlaskow.github.io/">jlaskow</a>
-{% endcomment %}
+{% endif %}
+
 
 
   <meta charset="utf-8">
