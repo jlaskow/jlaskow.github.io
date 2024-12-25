@@ -63,7 +63,7 @@ permalink: /projects/
     </div>
 
     <!-- Grid of Projects Below the Carousel -->
-   <h2>All Projects</h2>
+  <h2>All Projects</h2>
     <div class="row">
       <!-- Project 1 -->
       <div class="col-lg-4 col-md-6">
@@ -129,7 +129,7 @@ permalink: /projects/
   </div>
 
   <!-- External JS file -->
-  <script src="scripts.js"></script> <!-- Ensure correct path -->
+  <script src="/projects/scripts.js"></script> <!-- Ensure correct path -->
 </body>
 
 </html>
