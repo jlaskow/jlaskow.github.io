@@ -83,7 +83,6 @@ permalink: /projects/
     <!-- Project 1 -->
     <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="/img/projects/KOSPI.jpg" alt="KOSPI Project">
         <div class="caption">
           <h3>NASDAQ Predictions</h3>
           <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
@@ -95,7 +94,6 @@ permalink: /projects/
 
   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="/img/projects/income.jpg">
         <div class="caption">
           <h3>Deciphering Earnings</h3>
           <p>A collaborative project utilizing binomial classification techniques to predict income levels above $50K.</p>
@@ -107,7 +105,6 @@ permalink: /projects/
   
   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="/img/projects/ensemble.jpg">
         <div class="caption">
           <h3>Advanced Predictive Modeling Techniques</h3>
           <p>An independent project seeking to use a multitude of analytical tools and stacked ensembling techniques to build reliable predictions of patient medical expenses.</p>
@@ -122,7 +119,6 @@ permalink: /projects/
   
   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project6.jpg" alt="Project 6">
         <div class="caption">
           <h3>Beers and Breweries</h3>
           <p>Exploratory analytics for Budweiser sales data, focusing on marketing insights and opportunities for supply chain optimization.</p>
@@ -136,7 +132,6 @@ permalink: /projects/
   
   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project6.jpg" alt="Project 6">
         <div class="caption">
           <h3>Dragon's Hoard</h3>
           <p>Cloud-based data pipeline for a low-cost, user-friendly CRM for wholesale distributors to track sale and contract leads.</p>
@@ -150,7 +145,6 @@ permalink: /projects/
   
   <div class="col-lg-4 col-md-6">
       <div class="thumbnail">
-        <img src="img/portfolio/project6.jpg" alt="Project 6">
         <div class="caption">
           <h3>Employee Demographics for FritoLay</h3>
           <p>Application of KNN Clustering and Naive Bayes to predict employee attrition, and the use of multiple linear regression to predict employee salary.</p>
