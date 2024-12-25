@@ -44,7 +44,7 @@ permalink: /projects/
       color: black;
       display: flex;
       flex-direction: column;
-      justify-content: center;
+      justify-content: right;
       align-items: flex-start; /* Align text to the left within the container */
     }
     .carousel-caption h3 {
@@ -58,7 +58,7 @@ permalink: /projects/
       object-fit: cover;
     }
     .thumbnail {
-      text-align: center;
+      text-align: right;
     }
   </style>
 </head>
