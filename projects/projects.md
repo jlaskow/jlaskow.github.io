@@ -20,19 +20,17 @@ permalink: /projects/
       height: 400px; /* Set a consistent height for the carousel */
     }
 
-    .carousel-item-container {
+  .carousel-item-container {
       display: flex;
       height: 100%;
       align-items: center; /* Align items vertically */
       justify-content: space-between; /* Separate the image and caption */
     }
-
     .carousel-item-container img {
       width: 48%; /* Slightly reduced width to account for spacing */
       height: 100%;
       object-fit: cover; /* Maintain aspect ratio */
     }
-
     .carousel-item-container .carousel-caption {
       width: 48%;
       padding: 20px;
@@ -42,14 +40,13 @@ permalink: /projects/
       flex-direction: column;
       justify-content: center; /* Center text vertically */
     }
-
     .carousel-caption h3 {
       font-weight: bold;
       margin-bottom: 10px;
     }
 
     /* Styling for "All Projects" section */
-    .thumbnail img {
+  .thumbnail img {
       width: 100%; /* Make images responsive */
       height: 200px; /* Consistent height for thumbnails */
       object-fit: cover;
