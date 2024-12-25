@@ -14,7 +14,9 @@ permalink: /projects/
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <!-- Bootstrap JS -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <style>
+ 
+  
+<style>
     /* General Carousel Styling */
     .carousel-inner {
       height: 400px; /* Set a consistent height for the carousel */
@@ -55,6 +57,7 @@ permalink: /projects/
       text-align: right;
     }
   </style>
+
 </head>
 <body>
 <div class="container">
