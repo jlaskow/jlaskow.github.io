@@ -57,7 +57,7 @@ permalink: /projects/
       <!-- Project 5 -->
   
       
-  <a href="https://example.com/dragon" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/jlaskow/Dragons-Hoard-Free-Use-CRM-for-Wholesale-Distributors-of-TTRPG-Merchandise" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
           <img src="/img/projects/dragon.jpg" alt="Dragon's Hoard" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
           <h3 style="font-size: 16px; color: #333;">Dragon's Hoard</h3>
@@ -67,7 +67,7 @@ permalink: /projects/
 
       <!-- Project 6 -->
   
-  <a href="https://example.com/fritolay" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/jlaskow/Employee-Demographics-for-FritoLay" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
           <img src="/img/projects/fritolay.jpg" alt="FritoLay Employee Demographics" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
           <h3 style="font-size: 16px; color: #333;">Employee Demographics for FritoLay</h3>
