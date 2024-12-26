@@ -1,0 +1,13 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.grid-item {
+  width: 100%;
+  height: 150px; /* Fixed height for all images */
+  object-fit: cover; /* Ensures images fit without distorting */
+  border: 1px solid #ccc; /* Optional: Adds a border for styling */
+  border-radius: 5px; /* Optional: Rounded corners */
+}
