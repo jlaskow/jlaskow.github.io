@@ -1,13 +1,33 @@
-.grid {
+.grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px; /* Space between grid items */
+  padding: 20px;
 }
 
 .grid-item {
-  width: 20%;
-  height: 20px; /* Fixed height for all images */
-  object-fit: cover; /* Ensures images fit without distorting */
-  border: 1px solid #ccc; /* Optional: Adds a border for styling */
-  border-radius: 5px; /* Optional: Rounded corners */
+  text-align: center;
+  border: 1px solid #ddd; /* Optional: Border around each project */
+  border-radius: 10px; /* Optional: Rounded corners */
+  padding: 15px;
+  background-color: #f9f9f9; /* Light background for contrast */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.grid-item img {
+  width: 100%; /* Make images fill the grid item */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 10px 10px 0 0; /* Match the card’s corners */
+}
+
+.grid-item h3 {
+  margin-top: 15px;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.grid-item p {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 10px;
 }
