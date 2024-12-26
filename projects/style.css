@@ -1,6 +1,6 @@
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px; /* Space between grid items */
   padding: 20px;
 }
@@ -15,9 +15,10 @@
 }
 
 .grid-item img {
-  width: 20px; /* Make images fill the grid item */
-  height: 20 px; /* Maintain aspect ratio */
-  border-radius: 10px 10px 0 0; /* Match the card’s corners */
+  width: 50px; /* Fixed width for images */
+  height: 50px; /* Fixed height for images */
+  object-fit: cover; /* Ensures the image is cropped to fit the box */
+  border-radius: 5px; /* Optional: Small rounded corners */
 }
 
 .grid-item h3 {
