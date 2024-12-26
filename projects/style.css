@@ -15,8 +15,8 @@
 }
 
 .grid-item img {
-  width: 50px; /* Fixed width for images */
-  height: 50px; /* Fixed height for images */
+  width: 20px; /* Fixed width for images */
+  height: 20px; /* Fixed height for images */
   object-fit: cover; /* Ensures the image is cropped to fit the box */
   border-radius: 5px; /* Optional: Small rounded corners */
 }
