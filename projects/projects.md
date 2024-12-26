@@ -21,7 +21,7 @@ permalink: /projects/
 
   <!-- Image Grid Section -->
   <div class="grid">
-    <img class="grid-item" src="image1.jpg" alt="Image 1">
+    <img class="grid-item" src="/img/projects/KOSPI.jpg" alt="KOSPI Image">
     <img class="grid-item" src="image2.jpg" alt="Image 2">
     <img class="grid-item" src="image3.jpg" alt="Image 3">
   </div>
