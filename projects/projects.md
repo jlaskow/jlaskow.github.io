@@ -48,7 +48,7 @@ permalink: /projects/
   
   <a href="https://github.com/jlaskow/Beers-and-Breweries" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
-          <img src="/img/projects/beer.jpg" alt="Beers and Breweries" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
+          <img src="/img/projects/beer.jpeg" alt="Beers and Breweries" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
           <h3 style="font-size: 16px; color: #333;">Beers and Breweries</h3>
           <p style="font-size: 14px; color: #555;">Exploratory analytics for Budweiser sales data, focusing on marketing insights and supply chain optimization.</p>
         </div>
@@ -59,7 +59,7 @@ permalink: /projects/
       
   <a href="https://github.com/jlaskow/Dragons-Hoard-Free-Use-CRM-for-Wholesale-Distributors-of-TTRPG-Merchandise" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
-          <img src="/img/projects/dragon.jpg" alt="Dragon's Hoard" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
+          <img src="/img/projects/dragon.png" alt="Dragon's Hoard" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
           <h3 style="font-size: 16px; color: #333;">Dragon's Hoard</h3>
           <p style="font-size: 14px; color: #555;">Cloud-based data pipeline for a user-friendly CRM to track sales and contract leads for wholesale distributors.</p>
         </div>
@@ -69,7 +69,7 @@ permalink: /projects/
   
   <a href="https://github.com/jlaskow/Employee-Demographics-for-FritoLay" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
-          <img src="/img/projects/fritolay.jpg" alt="FritoLay Employee Demographics" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
+          <img src="/img/projects/fritolay.png" alt="FritoLay Employee Demographics" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
           <h3 style="font-size: 16px; color: #333;">Employee Demographics for FritoLay</h3>
           <p style="font-size: 14px; color: #555;">Application of KNN Clustering and Naive Bayes to predict employee attrition, along with salary predictions.</p>
         </div>
