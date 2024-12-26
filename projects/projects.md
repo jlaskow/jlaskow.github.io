@@ -20,7 +20,8 @@ permalink: /projects/
   </div>
 
   <!-- Image Grid Section -->
-
+  <div class="grid">
+    <img class="grid-item" src="image1.jpg" alt="Image 1">
     <img class="grid-item" src="image2.jpg" alt="Image 2">
     <img class="grid-item" src="image3.jpg" alt="Image 3">
   </div>
@@ -31,14 +32,13 @@ permalink: /projects/
       <!-- Project 1 -->
       <div class="col-lg-4 col-md-6">
         <div class="thumbnail">
-          <div class="grid">
-            <img class="grid-item" src="/img/projects/KOSPI.jpg" alt="KOSPI Image">          <div class="caption">
+          <img src="/img/projects/KOSPI.jpg" alt="KOSPI Project">
+          <div class="caption">
             <h3>NASDAQ Predictions</h3>
             <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
           </div>
         </div>
       </div>
-    </div>
       <!-- Add other projects here -->
     </div>
   </div>
