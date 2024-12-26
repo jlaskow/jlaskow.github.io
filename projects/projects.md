@@ -46,7 +46,7 @@ permalink: /projects/
 
       <!-- Project 4 -->
   
-  <a href="https://example.com/beer" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/jlaskow/Beers-and-Breweries" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
           <img src="/img/projects/beer.jpg" alt="Beers and Breweries" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
           <h3 style="font-size: 16px; color: #333;">Beers and Breweries</h3>
