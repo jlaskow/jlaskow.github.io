@@ -19,27 +19,43 @@ permalink: /projects/
     <h2>All Projects</h2>
   </div>
 
-  <!-- Image Grid Section -->
-  <div class="grid">
-    <img class="grid-item" src="image1.jpg" alt="Image 1">
-    <img class="grid-item" src="image2.jpg" alt="Image 2">
-    <img class="grid-item" src="image3.jpg" alt="Image 3">
-  </div>
-
-  <!-- Projects Section -->
-  <div class="container">
-    <div class="row">
-      <!-- Project 1 -->
-      <div class="col-lg-4 col-md-6">
-        <div class="thumbnail">
-          <img src="/img/projects/KOSPI.jpg" alt="KOSPI Project">
-          <div class="caption">
-            <h3>NASDAQ Predictions</h3>
-            <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
-          </div>
-        </div>
-      </div>
-      <!-- Add other projects here -->
+  <!-- Grid Section -->
+  <div class="grid-container">
+    <!-- Project 1 -->
+    <div class="grid-item">
+      <img src="/img/projects/KOSPI.jpg" alt="KOSPI Project">
+      <h3>NASDAQ Predictions</h3>
+      <p>A time series project hoping to predict future NASDAQ prices using limited data on past NASDAQ and KOSPI prices.</p>
+    </div>
+    <!-- Project 2 -->
+    <div class="grid-item">
+      <img src="/img/projects/income.jpg" alt="Income Project">
+      <h3>Deciphering Earnings</h3>
+      <p>A collaborative project utilizing binomial classification techniques to predict income levels above $50K.</p>
+    </div>
+    <!-- Project 3 -->
+    <div class="grid-item">
+      <img src="/img/projects/ensemble.jpg" alt="Ensemble Project">
+      <h3>Advanced Predictive Modeling Techniques</h3>
+      <p>An independent project seeking analytical tools and stacked ensembling techniques to predict patient medical expenses.</p>
+    </div>
+    <!-- Project 4 -->
+    <div class="grid-item">
+      <img src="/img/projects/beer.jpg" alt="Beers and Breweries">
+      <h3>Beers and Breweries</h3>
+      <p>Exploratory analytics for Budweiser sales data, focusing on marketing insights and supply chain optimization.</p>
+    </div>
+    <!-- Project 5 -->
+    <div class="grid-item">
+      <img src="/img/projects/dragon.jpg" alt="Dragon's Hoard">
+      <h3>Dragon's Hoard</h3>
+      <p>Cloud-based data pipeline for a user-friendly CRM to track sales and contract leads for wholesale distributors.</p>
+    </div>
+    <!-- Project 6 -->
+    <div class="grid-item">
+      <img src="/img/projects/fritolay.jpg" alt="FritoLay Project">
+      <h3>Employee Demographics for FritoLay</h3>
+      <p>Application of KNN Clustering and Naive Bayes to predict employee attrition, along with salary predictions.</p>
     </div>
   </div>
 </body>
