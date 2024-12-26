@@ -26,7 +26,7 @@ permalink: /projects/
       </a>
 
       <!-- Project 2 -->
-  <a href="https://example.com/income" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="[https://example.com/income](https://github.com/jlaskow/Deciphering-Earnings)" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
           <img src="/img/projects/income.jpg" alt="Income Project" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
           <h3 style="font-size: 16px; color: #333;">Deciphering Earnings</h3>
