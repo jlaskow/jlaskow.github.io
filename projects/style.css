@@ -15,8 +15,8 @@
 }
 
 .grid-item img {
-  width: 100%; /* Make images fill the grid item */
-  height: auto; /* Maintain aspect ratio */
+  width: 20px; /* Make images fill the grid item */
+  height: 20 px; /* Maintain aspect ratio */
   border-radius: 10px 10px 0 0; /* Match the card’s corners */
 }
 
