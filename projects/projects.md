@@ -16,6 +16,21 @@ permalink: /projects/
     <h2 style="text-align: center; color: #333;">All Projects</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; padding: 10px;">
 
+
+
+   <!-- tswge Bugs -->
+  <a href="https://github.com/jlaskow/tswge-Modifications" target="_blank" style="text-decoration: none; color: inherit;">
+        <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
+          <img src="/img/projects/r.jpeg" alt="tswge" style="width: 50px; height: 50px; object-fit: cover; margin-bottom: 10px; border-radius: 5px;">
+          <h3 style="font-size: 16px; color: #333;">tswge Modifications</h3>
+          <p style="font-size: 14px; color: #555;">An ongoing project fixing bugs and quality of life issues in the time series package for R, 'tswge'.</p>
+        </div>
+      </a>
+
+
+
+
+      
       <!-- Project 1 -->
   <a href="https://github.com/jlaskow/Assessing-Time-Series-Relationships-Between-South-Korean-KOSPI-and-U.S.-NASDAQ-" target="_blank" style="text-decoration: none; color: inherit;">
         <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; background-color: #fafafa;">
