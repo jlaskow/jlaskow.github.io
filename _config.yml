@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Joel Laskow"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile_image.jpg"
   bio    : "I'm a data scientist with 2 years experience leveraging analytical tools for business insights. I'm passionate about AI Governance, Business Forecasting, and Natural Science."
   links:
     - label: "LinkedIn"
