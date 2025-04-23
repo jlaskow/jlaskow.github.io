@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I'm a data scientist with 2 years experience leveraging analytical tools for business insights. I'm passionate about AI Governance, Business Forecasting, and Natural Science."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-LinkedIn-square"
       url: "https://linkedin.com/"
