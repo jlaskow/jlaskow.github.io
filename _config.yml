@@ -61,7 +61,7 @@ author:
   bio    : "I'm a data scientist with 2 years experience leveraging analytical tools for business insights. I'm passionate about AI Governance, Business Forecasting, and Natural Science."
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -70,7 +70,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
