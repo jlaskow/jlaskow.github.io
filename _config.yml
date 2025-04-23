@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Joel Laskow Portfolio
+title: Joel Laskow
 email: joellaskow@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Junior data scientist with 2 years experience with R, Python, SAS, and D3. 
@@ -63,7 +63,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-LinkedIn-square"
       url: "https://linkedin.com/"
     - label: "GitHub"
