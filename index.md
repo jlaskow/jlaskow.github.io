@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-<h1>**- Project 1**</h1>
+**<h1>- Project 1</h1>**
 
 
 
