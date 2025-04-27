@@ -7,6 +7,20 @@ permalink: /all_projects/
 
 
 
+# *tswge* Modifications (Ongoing)
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### An ongoing project to fix quality of life bugs in *tswge*, a time-series package for R. Common bugs include output and formatting errors that generate irrelevent information. Additional fixes include new functions for users.   
+---
+##### Topics
+- Bug Testing
+- Bug Fixing
+- Function Creation
+##### Tools
+- R
 
 # Tactical Insights into the Astra Militarum (Ongoing)
 
