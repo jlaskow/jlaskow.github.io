@@ -3,6 +3,16 @@ permalink: /all_projects/
 ---
 ###### Here you can find some of the major projects I've worked on. I'm always trying new things, and I love to showcase what I've learned, even if just to help others learn too. Have a look!
 
+# Employee Demographics for Fritolay
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### Using KNN clustering and Naive Bayes to predict employee attrition, and using linear regression to predict anticipated employee salary. 
+---
+##### Technologies Used
+- R
 
 
 # Beers and Breweries
