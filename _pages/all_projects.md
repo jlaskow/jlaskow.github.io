@@ -7,6 +7,62 @@ permalink: /all_projects/
 
 
 
+
+# Tactical Insights into the Astra Militarum (Ongoing)
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### An ongoing project exploring the common playstyles of the Astra Militarum, a faction in the table-top game Warhammer 40K. The project seeks to store freely available data in a NOSQL Cloud server for rapid access. The project also seeks to develop tools, metrics. and strategies for players to use to guage strategic viability during games.   
+---
+##### Topics
+- Resource Management
+- NoSQL Cloud Servers
+- Exploratory Data Analysis
+- Feature Engineering
+- User Interface
+
+##### Tools
+- MongoDB Cloud
+- Jupyter Notebooks
+
+
+# Assessing Time Series Relationships Between South Korean KOSPI and US NASDAG
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### A group project attempting to see how fluctuations in KOSPI  index might be used to predicts future performance of NASDAQ. Project was met with limited success, but provided a strong foundation into the applications and limitations of time series models.  
+---
+##### Topics
+- Economics
+- Time Series
+##### Tools
+- R
+
+
+# Dragon's Hoard: A Free-Use CRM for Wholesale Distributors of TTRPG Merchandise
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### A group project that set out to construct a low-cost data pipeline for a hypothetical distributor of TTRPG merchandise. The data pipeline uses open-source and low-cost services to build a cloud-based data warehouose that could be linked to a CRM. 
+---
+##### Topics
+- Cloud and Local Relational Database Management Systems
+- SQL
+- Data Crawlers
+##### Tools
+- mySQL
+- AWS
+- RDS
+- GLUE
+- Redshift
+- Looker Studio
+
 # Dragon's Hoard: A Free-Use CRM for Wholesale Distributors of TTRPG Merchandise
 
 ![Project Image Alt Text](https://your-image-url.com)
