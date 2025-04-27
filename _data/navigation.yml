@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "All Projects"
+    url: /all_projects/
+  - title: "AI Tools"
+    url: /AI/
+  - title: "Lesson Plans"
+    url: /lesson_plans/
+  - title: "Resume"
+    url: /resume/
