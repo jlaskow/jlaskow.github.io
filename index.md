@@ -4,10 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-title: Home
+title: Welcome
 ---
-
-# Project 1
-# Project 2
-# Project 3
-
