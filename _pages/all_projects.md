@@ -20,20 +20,6 @@ You can explain why you built it, the technologies you used, or what makes it sp
 
 ---
 
-## Demo / Embedded Preview
-
-<!-- Embed a YouTube video, GitHub README preview, or another live widget -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Links
-
-- [View the project on GitHub](https://github.com/your-repo-link)
-- [Visit the live site](https://your-live-site-link) <!-- Optional if you have a hosted demo -->
-
----
-
 ## Technologies Used
 
 - Python
@@ -42,9 +28,3 @@ You can explain why you built it, the technologies you used, or what makes it sp
 - (etc.)
 
 ---
-
-## Future Improvements
-
-- [ ] Add user authentication
-- [ ] Improve mobile responsiveness
-- [ ] Write additional documentation
