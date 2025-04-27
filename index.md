@@ -6,14 +6,15 @@ layout: single
 author_profile: true
 ---
 
-**- Project 1**
+<h1>**- Project 1**</h1>
 
 
 
 
-**- Project 2**
+<h1>**- Project 2**</h1>
 
 
 
 
-**- Project 3**
+<h1>**- Project 3**</h1>
+
