@@ -1,4 +1,3 @@
-
 ---
 permalink: /AI/
 title: "AI Tools"
