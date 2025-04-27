@@ -11,10 +11,10 @@ author_profile: true
 
 
 
-<h1>**- Project 2**</h1>
+**<h1>- Project 2</h1>**
 
 
 
 
-<h1>**- Project 3**</h1>
+**<h1>- Project 3</h1>**
 
