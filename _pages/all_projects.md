@@ -7,6 +7,25 @@ permalink: /all_projects/
 
 
 
+# Dragon's Hoard: A Free-Use CRM for Wholesale Distributors of TTRPG Merchandise
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### A group project that set out to construct a low-cost data pipeline for a hypothetical distributor of TTRPG merchandise. The data pipeline uses open-source and low-cost services to build a cloud-based data warehouose that could be linked to a CRM. 
+---
+##### Topics
+- Cloud and Local Relational Database Management Systems
+- SQL
+- Data Crawlers
+##### Tools
+- mySQL
+- AWS
+- RDS
+- GLUE
+- Redshift
+- Looker Studio
 
 
 
