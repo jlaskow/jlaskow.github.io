@@ -1,6 +1,6 @@
 ---
 permalink: /all_projects/
-title: "All Projects"
+title: "Check Out Some of the Projects I've Worked On1"
 ---
 
 # Project 1
