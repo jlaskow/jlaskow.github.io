@@ -5,26 +5,17 @@ permalink: /all_projects/
 
 
 
-# Project Title Here
+# Beers and Breweries
 
 ![Project Image Alt Text](https://your-image-url.com)
 
 *Date: Month Day, Year*
 
----
-
-## Description
-
-Write a few sentences or a paragraph here describing what the project is about.  
-You can explain why you built it, the technologies you used, or what makes it special.
-
+A group exploration of readily available brewery data from Budweiser. EDA identifies key trends that we believe could be useful for future analysis. Observations include distribution of alcohol by volume, median alcohol content by state, and potential classification models (KNN) to predict IPA vs Non-IPA based on Alcohol by Volume (ABV) and International Bitterness Units (IBU). 
 ---
 
 ## Technologies Used
 
-- Python
-- React
-- AWS
-- (etc.)
+- R
 
 ---
