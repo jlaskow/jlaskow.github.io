@@ -6,6 +6,33 @@ permalink: /all_projects/
 
 
 
+
+
+
+
+
+
+
+
+
+# Advanced Predictive Modeling Techniques to Anticiopate Medical Expenses Among Smokers and Non-Smokers
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### Aplication of advanced modeling techniques to predict medical expenses from limited patient information. 
+---
+##### Topics
+- Multiple Linear Regression
+- Random Forest
+- KNN
+- Ensembling
+- Cross Validation
+##### Tools
+- R
+
+
 # Deciphering Earnings
 
 ![Project Image Alt Text](https://your-image-url.com)
