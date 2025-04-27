@@ -9,9 +9,9 @@ permalink: /all_projects/
 
 ![Project Image Alt Text](https://your-image-url.com)
 
-*Date: Month Day, Year*
+###### *Date: Month Day, Year*
 
-A group exploration of readily available brewery data from Budweiser. EDA identifies key trends that we believe could be useful for future analysis. Observations include distribution of alcohol by volume, median alcohol content by state, and potential classification models (KNN) to predict IPA vs Non-IPA based on Alcohol by Volume (ABV) and International Bitterness Units (IBU). 
+###### A group exploration of readily available brewery data from Budweiser. EDA identifies key trends that we believe could be useful for future analysis. Observations include distribution of alcohol by volume, median alcohol content by state, and potential classification models (KNN) to predict IPA vs Non-IPA based on Alcohol by Volume (ABV) and International Bitterness Units (IBU). 
 ---
 
 ## Technologies Used
