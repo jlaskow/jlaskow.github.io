@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "AI Tools"
+permalink: /ai_tools/
 layout: tags
 author_profile: true
 ---
