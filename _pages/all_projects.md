@@ -3,6 +3,37 @@ permalink: /all_projects/
 ---
 ###### Here you can find some of the major projects I've worked on. I'm always trying new things, and I love to showcase what I've learned, even if just to help others learn too. Have a look!
 
+
+
+
+# Deciphering Earnings
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### A collaberative project utilizing advanced predictive techniques to predict income levels above $50K
+. 
+---
+##### Topics
+- Feature Selection
+- Tree Maps
+- Multicollinearity
+- PCA
+- Logistic Regression
+- LDA/QDA
+- Random Forest
+-  CaRT
+-  Feed Forward Neural Networks
+##### Tools
+- R
+
+
+
+
+
+
+
 # House Price Predictions in Ames, Iowa
 
 ![Project Image Alt Text](https://your-image-url.com)
@@ -34,25 +65,7 @@ permalink: /all_projects/
 - R
 
 
-
-
-
-
-
-
-
-
-
-# Employee Demographics for Fritolay
-
-![Project Image Alt Text](https://your-image-url.com)
-
-###### *Date: Month Day, Year*
-
-###### Using KNN clustering and Naive Bayes to predict employee attrition, and using linear regression to predict anticipated employee salary. 
----
-##### Technologies Used
-- R
+\
 
 
 # Beers and Breweries
