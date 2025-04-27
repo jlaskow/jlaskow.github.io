@@ -7,6 +7,28 @@ permalink: /all_projects/
 
 
 
+# Conversational AI and AI Governance in Vectorshift
+
+![Project Image Alt Text](https://your-image-url.com)
+
+###### *Date: Month Day, Year*
+
+###### This project sets out to build a chatbot that assists users experiencing panic attacks. Avery, the final bot, works by walking users through the 54321 grounding technique. Avery is designed in accordance with the AI RMF 1.0, a framework designed by the US Department of Commerce to outline the steps necessary for development of safe, ethical AI. Chatbot responses are evaluated using independent llm models to guage professionalism and appropriateness. Avery also incorporates multiple developmental guardrails and protective layers to limit harmful output, including the ability to recognize intent to harm self or others and provide relevant crisis-control resources. 
+---
+##### Topics
+- AI
+- Chatbots
+- Ethical AI Development
+- Embedding
+- HIPAA Protections
+
+##### Tools
+- Vectorshift
+- Perplexity
+- Gemini
+- Anthropic
+- Cohere
+
 # *tswge* Modifications (Ongoing)
 
 ![Project Image Alt Text](https://your-image-url.com)
