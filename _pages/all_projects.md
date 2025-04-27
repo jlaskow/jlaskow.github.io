@@ -1,7 +1,7 @@
 ---
 permalink: /all_projects/
 ---
-###### Here you can find some of the major projects I've worked on. I'm always trying new things, and I love to showcase what I've learned, even if just to help else learn something too. Have a look!
+###### Here you can find some of the major projects I've worked on. I'm always trying new things, and I love to showcase what I've learned, even if just to help others learn too. Have a look!
 
 
 
