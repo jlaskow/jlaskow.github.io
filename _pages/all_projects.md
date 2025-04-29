@@ -208,7 +208,7 @@ permalink: /all_projects/
 
 # Beers and Breweries
 
-![Project Image Alt Text](https://your-image-url.com)
+![Beers and Breweries]([https://your-image-url.com](https://github.com/jlaskow/jlaskow.github.io/blob/master/assets/images/project_images/beers_and_breweries.png))
 
 ###### *Date: Month Day, Year*
 
