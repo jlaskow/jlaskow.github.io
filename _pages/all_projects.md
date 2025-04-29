@@ -9,12 +9,12 @@ permalink: /all_projects/
 
 # Conversational AI and AI Governance in Vectorshift
 
-![Project Image Alt Text](https://your-image-url.com)
+![Conversational AI and AI Governance in Vectorshift](../assets/images/project_images/chatbot.png)
 
-###### *Date: Month Day, Year*
+###### *Date: May, 2025*
 
 ###### This project sets out to build a chatbot that assists users experiencing panic attacks. Avery, the final bot, works by walking users through the 54321 grounding technique. Avery is designed in accordance with the AI RMF 1.0, a framework designed by the US Department of Commerce to outline the steps necessary for development of safe, ethical AI. Chatbot responses are evaluated using independent llm models to guage professionalism and appropriateness. Avery also incorporates multiple developmental guardrails and protective layers to limit harmful output, including the ability to recognize intent to harm self or others and provide relevant crisis-control resources. 
----
+
 ##### Topics
 - AI
 - Chatbots
@@ -29,14 +29,17 @@ permalink: /all_projects/
 - Anthropic
 - Cohere
 
+---
+
+
 # *tswge* Modifications (Ongoing)
 
-![Project Image Alt Text](https://your-image-url.com)
+![tswge](../assets/images/project_images/tswge.png)
 
-###### *Date: Month Day, Year*
+
 
 ###### An ongoing project to fix quality of life bugs in *tswge*, a time-series package for R. Common bugs include output and formatting errors that generate irrelevent information. Additional fixes include new functions for users.   
----
+
 ##### Topics
 - Bug Testing
 - Bug Fixing
@@ -44,14 +47,19 @@ permalink: /all_projects/
 ##### Tools
 - R
 
+
+---
+
+
+
 # Tactical Insights into the Astra Militarum (Ongoing)
 
-![Project Image Alt Text](https://your-image-url.com)
+![Astra Militarum](../assets/images/project_images/astra_militarum.png)
 
-###### *Date: Month Day, Year*
+
 
 ###### An ongoing project exploring the common playstyles of the Astra Militarum, a faction in the table-top game Warhammer 40K. The project seeks to store freely available data in a NOSQL Cloud server for rapid access. The project also seeks to develop tools, metrics. and strategies for players to use to guage strategic viability during games.   
----
+
 ##### Topics
 - Resource Management
 - NoSQL Cloud Servers
@@ -63,15 +71,16 @@ permalink: /all_projects/
 - MongoDB Cloud
 - Jupyter Notebooks
 
+---
 
 # Assessing Time Series Relationships Between South Korean KOSPI and US NASDAG
 
-![Project Image Alt Text](https://your-image-url.com)
+![Assessing Time Series Relationships Between South Korean KOSPI and US NASDAG](../assets/images/project_images/kospi.png)
 
-###### *Date: Month Day, Year*
+###### *Date: December, 2024
 
 ###### A group project attempting to see how fluctuations in KOSPI  index might be used to predicts future performance of NASDAQ. Project was met with limited success, but provided a strong foundation into the applications and limitations of time series models.  
----
+
 ##### Topics
 - Economics
 - Time Series
@@ -79,31 +88,14 @@ permalink: /all_projects/
 - R
 
 
-# Dragon's Hoard: A Free-Use CRM for Wholesale Distributors of TTRPG Merchandise
-
-![Project Image Alt Text](https://your-image-url.com)
-
-###### *Date: Month Day, Year*
-
-###### A group project that set out to construct a low-cost data pipeline for a hypothetical distributor of TTRPG merchandise. The data pipeline uses open-source and low-cost services to build a cloud-based data warehouose that could be linked to a CRM. 
 ---
-##### Topics
-- Cloud and Local Relational Database Management Systems
-- SQL
-- Data Crawlers
-##### Tools
-- mySQL
-- AWS
-- RDS
-- GLUE
-- Redshift
-- Looker Studio
+
 
 # Dragon's Hoard: A Free-Use CRM for Wholesale Distributors of TTRPG Merchandise
 
-![Project Image Alt Text](https://your-image-url.com)
+![Dragon's Hoard](../assets/images/project_images/dragons_hoard.png)
 
-###### *Date: Month Day, Year*
+###### *Date: July, 2024*
 
 ###### A group project that set out to construct a low-cost data pipeline for a hypothetical distributor of TTRPG merchandise. The data pipeline uses open-source and low-cost services to build a cloud-based data warehouose that could be linked to a CRM. 
 ---
@@ -120,20 +112,20 @@ permalink: /all_projects/
 - Looker Studio
 
 
+---
 
 
 
 
 
+# Advanced Predictive Modeling Techniques to Anticipate Medical Expenses Among Smokers and Non-Smokers
 
-# Advanced Predictive Modeling Techniques to Anticiopate Medical Expenses Among Smokers and Non-Smokers
+![Medical Predictions](../assets/images/project_images/medical_predictions.png)
 
-![Project Image Alt Text](https://your-image-url.com)
-
-###### *Date: Month Day, Year*
+###### *Date: June, 2024*
 
 ###### Aplication of advanced modeling techniques to predict medical expenses from limited patient information. 
----
+
 ##### Topics
 - Multiple Linear Regression
 - Random Forest
@@ -143,16 +135,16 @@ permalink: /all_projects/
 ##### Tools
 - R
 
+---
 
 # Deciphering Earnings
 
-![Project Image Alt Text](https://your-image-url.com)
+![50K](../assets/images/project_images/50k.png)
 
-###### *Date: Month Day, Year*
+###### *Date: May, 2024*
 
 ###### A collaberative project utilizing advanced predictive techniques to predict income levels above $50K
-. 
----
+
 ##### Topics
 - Feature Selection
 - Tree Maps
@@ -166,34 +158,30 @@ permalink: /all_projects/
 ##### Tools
 - R
 
-
-
-
-
+---
 
 
 # House Price Predictions in Ames, Iowa
 
-![Project Image Alt Text](https://your-image-url.com)
+![Housing](../assets/images/project_images/housing.png)
 
-###### *Date: Month Day, Year*
+###### *Date: May, 2024*
 
 ###### A group project using multiple linear regression models to predict housing prices in Ames, Iowa. Final Kaggle Score of all predictions: 0.20623 (within top 15% of all predictions submitted). 
----
+
 ##### Topics
 - Multiple Linear Regression
 ##### Tools
 - R
-
+---
 
 # Employee Demographics for Fritolay
 
-![Project Image Alt Text](https://your-image-url.com)
+![Employee Demographics for Fritolay](../assets/images/project_images/fritolay.png)
 
-###### *Date: Month Day, Year*
+###### *Date: December, 2023*
 
 ###### Using KNN clustering and Naive Bayes to predict employee attrition, and using linear regression to predict anticipated employee salary. 
----
 
 ##### Topics
 - Multiple Linear Regression
@@ -202,15 +190,12 @@ permalink: /all_projects/
 ##### Tools
 - R
 
-
-\
-
-
+---
 # Beers and Breweries
 
 ![Beers and Breweries](../assets/images/project_images/beers_and_breweries.png)
 
-###### *Date: Month Day, Year*
+###### *Date: November, 2023*
 
 ###### A group exploration of readily available brewery data from Budweiser. EDA identifies key trends that we believe could be useful for future analysis. Observations include distribution of alcohol by volume, median alcohol content by state, and potential classification models (KNN) to predict IPA vs Non-IPA based on Alcohol by Volume (ABV) and International Bitterness Units (IBU). 
 ---
