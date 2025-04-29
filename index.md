@@ -5,15 +5,8 @@ title: ""
 author_profile: true
 ---
 
-
-## Timeline Snapshot (Graph Style)
-
-<table>
-  <tr>
-    <td align="center"><strong>Dec 2023</strong><br/>Employee Demographics</td>
-    <td align="center"><strong>May 2024</strong><br/>House Price Prediction</td>
-    <td align="center"><strong>Jul 2024</strong><br/>Dragon’s Hoard CRM</td>
-    <td align="center"><strong>Dec 2024</strong><br/>KOSPI vs NASDAQ</td>
-    <td align="center"><strong>May 2025</strong><br/>Conversational AI</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" alt="R">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL">
+</p>
