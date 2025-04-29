@@ -6,31 +6,14 @@ author_profile: true
 ---
 
 
+## Timeline Snapshot (Graph Style)
 
-Hello?
-
-
-
-
-
-## 🗓️ Timeline
-
-<div style="border-left: 2px solid #ccc; padding-left: 20px; margin-left: 10px;">
-
-### 🧠 May 2025  
-**Conversational AI and AI Governance**  
-Built a chatbot to support users in crisis. Used AI RMF 1.0 principles.
-
----
-
-### 📊 December 2024  
-**KOSPI vs NASDAQ Time Series**  
-Explored predictive models between South Korea's KOSPI and US NASDAQ.
-
----
-
-### 🔧 July 2024  
-**Dragon’s Hoard CRM**  
-Built an open-source CRM and data pipeline for TTRPG distributors.
-
-</div>
+<table>
+  <tr>
+    <td align="center"><strong>Dec 2023</strong><br/>Employee Demographics</td>
+    <td align="center"><strong>May 2024</strong><br/>House Price Prediction</td>
+    <td align="center"><strong>Jul 2024</strong><br/>Dragon’s Hoard CRM</td>
+    <td align="center"><strong>Dec 2024</strong><br/>KOSPI vs NASDAQ</td>
+    <td align="center"><strong>May 2025</strong><br/>Conversational AI</td>
+  </tr>
+</table>
