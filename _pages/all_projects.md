@@ -4,7 +4,7 @@ title: ""
 header: false
 ---
 
-### [Conversational AI and AI Governance in Vectorshift](https://github.com/jlaskow/Conversation-AI-and-AI-Governance-in-Vectorshift)
+# [Conversational AI and AI Governance in Vectorshift](https://github.com/jlaskow/Conversation-AI-and-AI-Governance-in-Vectorshift)
 
 <img src="../assets/images/project_images/chatbot.png" alt="Conversational AI and AI Governance in Vectorshift" width="200" height="200"/>
 
