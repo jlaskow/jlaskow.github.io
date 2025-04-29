@@ -2,7 +2,7 @@
 permalink: /all_projects/
 ---
 
-# Conversational AI and AI Governance in Vectorshift
+# [Conversational AI and AI Governance in Vectorshift](https://github.com/jlaskow/Conversation-AI-and-AI-Governance-in-Vectorshift)
 
 <img src="../assets/images/project_images/chatbot.png" alt="Conversational AI and AI Governance in Vectorshift" width="200" height="200"/>
 
@@ -26,7 +26,7 @@ permalink: /all_projects/
 
 ---
 
-# *tswge* Modifications (Ongoing)
+# [*tswge* Modifications (Ongoing)](https://github.com/jlaskow/tswge-Modifications)
 
 <img src="../assets/images/project_images/tswge.png" alt="tswge" width="200" height="200"/>
 
@@ -42,7 +42,7 @@ permalink: /all_projects/
 
 ---
 
-# Tactical Insights into the Astra Militarum (Ongoing)
+# [Tactical Insights into the Astra Militarum (Ongoing)](https://github.com/jlaskow/Tactical-Insights-into-the-Astra-Militarum)
 
 <img src="../assets/images/project_images/astra_militarum.png" alt="Astra Militarum" width="200" height="200"/>
 
@@ -61,7 +61,7 @@ permalink: /all_projects/
 
 ---
 
-# Assessing Time Series Relationships Between South Korean KOSPI and US NASDAQ
+# [Assessing Time Series Relationships Between South Korean KOSPI and US NASDAQ](https://github.com/jlaskow/Assessing-Time-Series-Relationships-Between-South-Korean-KOSPI-and-U.S.-NASDAQ-)
 
 <img src="../assets/images/project_images/kospi.png" alt="kospi" width="200" height="200"/>
 
@@ -78,7 +78,7 @@ permalink: /all_projects/
 
 ---
 
-# Dragon's Hoard: A Free-Use CRM for Wholesale Distributors of TTRPG Merchandise
+# [Dragon's Hoard: A Free-Use CRM for Wholesale Distributors of TTRPG Merchandise](https://github.com/jlaskow/Dragons-Hoard-Free-Use-CRM-for-Wholesale-Distributors-of-TTRPG-Merchandise?tab=readme-ov-file)
 
 <img src="../assets/images/project_images/dragons_hoard.png" alt="Dragon's Hoard" width="200" height="200"/>
 
@@ -101,7 +101,7 @@ permalink: /all_projects/
 
 ---
 
-# Advanced Predictive Modeling Techniques to Anticipate Medical Expenses Among Smokers and Non-Smokers
+# [Advanced Predictive Modeling Techniques to Anticipate Medical Expenses Among Smokers and Non-Smokers](https://github.com/jlaskow/Advanced-Predictive-Modeling-Techniques-to-Anticipate-Medical-Expenses-Among-Smokers-and-Non-Smokers)
 
 <img src="../assets/images/project_images/medical_predictions.png" alt="Medical Predictions" width="200" height="200"/>
 
@@ -121,7 +121,7 @@ permalink: /all_projects/
 
 ---
 
-# Deciphering Earnings
+# [Deciphering Earnings](https://github.com/jlaskow/Deciphering-Earnings)
 
 <img src="../assets/images/project_images/50k.png" alt="50K" width="200" height="200"/>
 
@@ -145,7 +145,7 @@ permalink: /all_projects/
 
 ---
 
-# House Price Predictions in Ames, Iowa
+# [House Price Predictions in Ames, Iowa](https://github.com/jlaskow/Kaggle-House-Price-Predictions-in-Ames-Iowa)
 
 <img src="../assets/images/project_images/housing2.png" alt="Housing" width="200" height="200"/>
 
@@ -161,7 +161,7 @@ permalink: /all_projects/
 
 ---
 
-# Employee Demographics for Fritolay
+# [Employee Demographics for Fritolay](https://github.com/jlaskow/Employee-Demographics-for-FritoLay)
 
 <img src="../assets/images/project_images/fritolay.png" alt="Employee Demographics for Fritolay" width="200" height="200"/>
 
