@@ -1,5 +1,6 @@
 ---
 permalink: /all_projects/
+title: ""
 header: false
 ---
 
