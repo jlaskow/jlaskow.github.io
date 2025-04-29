@@ -10,7 +10,7 @@ header: false
 
 ###### *May, 2025*
 
-###### This project sets out to build a chatbot that assists users experiencing panic attacks. Avery, the final bot, works by walking users through the 54321 grounding technique. Avery is designed in accordance with the AI RMF 1.0, a framework designed by the US Department of Commerce to outline the steps necessary for development of safe, ethical AI. Chatbot responses are evaluated using independent llm models to guage professionalism and appropriateness. Avery also incorporates multiple developmental guardrails and protective layers to limit harmful output, including the ability to recognize intent to harm self or others and provide relevant crisis-control resources.
+This project sets out to build a chatbot that assists users experiencing panic attacks. Avery, the final bot, works by walking users through the 54321 grounding technique. Avery is designed in accordance with the AI RMF 1.0, a framework designed by the US Department of Commerce to outline the steps necessary for development of safe, ethical AI. Chatbot responses are evaluated using independent llm models to guage professionalism and appropriateness. Avery also incorporates multiple developmental guardrails and protective layers to limit harmful output, including the ability to recognize intent to harm self or others and provide relevant crisis-control resources.
 
 ##### Topics
 - AI
@@ -32,7 +32,7 @@ header: false
 
 <img src="../assets/images/project_images/tswge.png" alt="tswge" width="200" height="200"/>
 
-###### An ongoing project to fix quality of life bugs in *tswge*, a time-series package for R. Common bugs include output and formatting errors that generate irrelevant information. Additional fixes include new functions for users.
+An ongoing project to fix quality of life bugs in *tswge*, a time-series package for R. Common bugs include output and formatting errors that generate irrelevant information. Additional fixes include new functions for users.
 
 ##### Topics
 - Bug Testing
@@ -48,7 +48,7 @@ header: false
 
 <img src="../assets/images/project_images/astra_militarum.png" alt="Astra Militarum" width="200" height="200"/>
 
-###### An ongoing project exploring the common playstyles of the Astra Militarum, a faction in the table-top game Warhammer 40K. The project seeks to store freely available data in a NoSQL Cloud server for rapid access. The project also seeks to develop tools, metrics, and strategies for players to use to gauge strategic viability during games.
+An ongoing project exploring the common playstyles of the Astra Militarum, a faction in the table-top game Warhammer 40K. The project seeks to store freely available data in a NoSQL Cloud server for rapid access. The project also seeks to develop tools, metrics, and strategies for players to use to gauge strategic viability during games.
 
 ##### Topics
 - Resource Management
@@ -69,7 +69,7 @@ header: false
 
 ###### *December, 2024*
 
-###### A group project attempting to see how fluctuations in KOSPI index might be used to predict future performance of NASDAQ. Project was met with limited success, but provided a strong foundation into the applications and limitations of time series models.
+A group project attempting to see how fluctuations in KOSPI index might be used to predict future performance of NASDAQ. Project was met with limited success, but provided a strong foundation into the applications and limitations of time series models.
 
 ##### Topics
 - Economics
@@ -86,7 +86,7 @@ header: false
 
 ###### *July, 2024*
 
-###### A group project that set out to construct a low-cost data pipeline for a hypothetical distributor of TTRPG merchandise. The data pipeline uses open-source and low-cost services to build a cloud-based data warehouse that could be linked to a CRM.
+A group project that set out to construct a low-cost data pipeline for a hypothetical distributor of TTRPG merchandise. The data pipeline uses open-source and low-cost services to build a cloud-based data warehouse that could be linked to a CRM.
 
 ##### Topics
 - Cloud and Local Relational Database Management Systems
@@ -109,7 +109,7 @@ header: false
 
 ###### *June, 2024*
 
-###### Application of advanced modeling techniques to predict medical expenses from limited patient information.
+Application of advanced modeling techniques to predict medical expenses from limited patient information.
 
 ##### Topics
 - Multiple Linear Regression
@@ -129,7 +129,7 @@ header: false
 
 ###### *May, 2024*
 
-###### A collaborative project utilizing advanced predictive techniques to predict income levels above $50K.
+A collaborative project utilizing advanced predictive techniques to predict income levels above $50K.
 
 ##### Topics
 - Feature Selection
@@ -153,7 +153,7 @@ header: false
 
 ###### *May, 2024*
 
-###### A group project using multiple linear regression models to predict housing prices in Ames, Iowa. Final Kaggle Score of all predictions: 0.20623 (within top 15% of all predictions submitted).
+A group project using multiple linear regression models to predict housing prices in Ames, Iowa. Final Kaggle Score of all predictions: 0.20623 (within top 15% of all predictions submitted).
 
 ##### Topics
 - Multiple Linear Regression
@@ -169,7 +169,7 @@ header: false
 
 ###### *December, 2023*
 
-###### Using KNN clustering and Naive Bayes to predict employee attrition, and using linear regression to predict anticipated employee salary.
+Using KNN clustering and Naive Bayes to predict employee attrition, and using linear regression to predict anticipated employee salary.
 
 ##### Topics
 - Multiple Linear Regression
@@ -187,7 +187,7 @@ header: false
 
 ###### *November, 2023*
 
-###### A group exploration of readily available brewery data from Budweiser. EDA identifies key trends that we believe could be useful for future analysis. Observations include distribution of alcohol by volume, median alcohol content by state, and potential classification models (KNN) to predict IPA vs Non-IPA based on Alcohol by Volume (ABV) and International Bitterness Units (IBU).
+A group exploration of readily available brewery data from Budweiser. EDA identifies key trends that we believe could be useful for future analysis. Observations include distribution of alcohol by volume, median alcohol content by state, and potential classification models (KNN) to predict IPA vs Non-IPA based on Alcohol by Volume (ABV) and International Bitterness Units (IBU).
 
 ##### Topics
 - EDA
