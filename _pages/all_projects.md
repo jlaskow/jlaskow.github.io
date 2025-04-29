@@ -179,7 +179,7 @@ permalink: /all_projects/
 
 ---
 
-# Beers and Breweries
+# [Beers and Breweries](https://github.com/jlaskow/Beers-and-Breweries)
 
 <img src="../assets/images/project_images/beers_and_breweries.png" alt="Beers and Breweries" width="200" height="200"/>
 
