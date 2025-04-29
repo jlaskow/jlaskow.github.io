@@ -75,9 +75,9 @@ permalink: /all_projects/
 
 # Assessing Time Series Relationships Between South Korean KOSPI and US NASDAG
 
-![Assessing Time Series Relationships Between South Korean KOSPI and US NASDAG](../assets/images/project_images/kospi.png)
+![kospi](../assets/images/project_images/kospi.png)
 
-###### *Date: December, 2024
+###### *Date: December, 2024*
 
 ###### A group project attempting to see how fluctuations in KOSPI  index might be used to predicts future performance of NASDAQ. Project was met with limited success, but provided a strong foundation into the applications and limitations of time series models.  
 
