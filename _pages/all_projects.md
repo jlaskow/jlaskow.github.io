@@ -8,7 +8,7 @@ header: false
 
 <img src="../assets/images/project_images/chatbot.png" alt="Conversational AI and AI Governance in Vectorshift" width="200" height="200"/>
 
-###### *Date: May, 2025*
+###### *May, 2025*
 
 ###### This project sets out to build a chatbot that assists users experiencing panic attacks. Avery, the final bot, works by walking users through the 54321 grounding technique. Avery is designed in accordance with the AI RMF 1.0, a framework designed by the US Department of Commerce to outline the steps necessary for development of safe, ethical AI. Chatbot responses are evaluated using independent llm models to guage professionalism and appropriateness. Avery also incorporates multiple developmental guardrails and protective layers to limit harmful output, including the ability to recognize intent to harm self or others and provide relevant crisis-control resources.
 
@@ -67,7 +67,7 @@ header: false
 
 <img src="../assets/images/project_images/kospi.png" alt="kospi" width="200" height="200"/>
 
-###### *Date: December, 2024*
+###### *December, 2024*
 
 ###### A group project attempting to see how fluctuations in KOSPI index might be used to predict future performance of NASDAQ. Project was met with limited success, but provided a strong foundation into the applications and limitations of time series models.
 
@@ -84,7 +84,7 @@ header: false
 
 <img src="../assets/images/project_images/dragons_hoard.png" alt="Dragon's Hoard" width="200" height="200"/>
 
-###### *Date: July, 2024*
+###### *July, 2024*
 
 ###### A group project that set out to construct a low-cost data pipeline for a hypothetical distributor of TTRPG merchandise. The data pipeline uses open-source and low-cost services to build a cloud-based data warehouse that could be linked to a CRM.
 
@@ -107,7 +107,7 @@ header: false
 
 <img src="../assets/images/project_images/medical_predictions.png" alt="Medical Predictions" width="200" height="200"/>
 
-###### *Date: June, 2024*
+###### *June, 2024*
 
 ###### Application of advanced modeling techniques to predict medical expenses from limited patient information.
 
@@ -127,7 +127,7 @@ header: false
 
 <img src="../assets/images/project_images/50k.png" alt="50K" width="200" height="200"/>
 
-###### *Date: May, 2024*
+###### *May, 2024*
 
 ###### A collaborative project utilizing advanced predictive techniques to predict income levels above $50K.
 
@@ -151,7 +151,7 @@ header: false
 
 <img src="../assets/images/project_images/housing2.png" alt="Housing" width="200" height="200"/>
 
-###### *Date: May, 2024*
+###### *May, 2024*
 
 ###### A group project using multiple linear regression models to predict housing prices in Ames, Iowa. Final Kaggle Score of all predictions: 0.20623 (within top 15% of all predictions submitted).
 
@@ -167,7 +167,7 @@ header: false
 
 <img src="../assets/images/project_images/fritolay.png" alt="Employee Demographics for Fritolay" width="200" height="200"/>
 
-###### *Date: December, 2023*
+###### *December, 2023*
 
 ###### Using KNN clustering and Naive Bayes to predict employee attrition, and using linear regression to predict anticipated employee salary.
 
@@ -185,7 +185,7 @@ header: false
 
 <img src="../assets/images/project_images/beers_and_breweries.png" alt="Beers and Breweries" width="200" height="200"/>
 
-###### *Date: November, 2023*
+###### *November, 2023*
 
 ###### A group exploration of readily available brewery data from Budweiser. EDA identifies key trends that we believe could be useful for future analysis. Observations include distribution of alcohol by volume, median alcohol content by state, and potential classification models (KNN) to predict IPA vs Non-IPA based on Alcohol by Volume (ABV) and International Bitterness Units (IBU).
 
