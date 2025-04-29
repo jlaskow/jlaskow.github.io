@@ -1,5 +1,6 @@
 ---
 permalink: /all_projects/
+header: false
 ---
 
 ### [Conversational AI and AI Governance in Vectorshift](https://github.com/jlaskow/Conversation-AI-and-AI-Governance-in-Vectorshift)
