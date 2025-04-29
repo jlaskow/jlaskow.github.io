@@ -163,7 +163,7 @@ permalink: /all_projects/
 
 # House Price Predictions in Ames, Iowa
 
-![Housing](../assets/images/project_images/housing.png)
+![Housing](../assets/images/project_images/housing2.png)
 
 ###### *Date: May, 2024*
 
