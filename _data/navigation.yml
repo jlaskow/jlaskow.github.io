@@ -1,8 +1,6 @@
 main:
-  - title: "All Projects"
+  - title: "Projects"
     url: /all_projects/
-  - title: "AI Tools"
-    url: /AI/
   - title: "Lesson Plans"
     url: /lesson_plans/
   - title: "Resume"
