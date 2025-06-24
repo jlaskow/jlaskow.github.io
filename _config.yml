@@ -21,6 +21,22 @@ github_username: jlaskow
 minimal_mistakes_skin: neon
 search: true
 
+
+author:
+  name   : "Joel Laskow"
+  avatar : "/assets/images/profile_image.jpg"
+  bio    : "Data scientist with a passion for AI governance, forecasting, and education."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/joel-laskow"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jlaskow"
+
+
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
