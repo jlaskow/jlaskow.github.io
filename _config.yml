@@ -55,18 +55,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Joel Laskow"
-  avatar : "/assets/images/profile_image.jpg"
-  bio    : "I'm a data scientist with 2 years experience leveraging analytical tools for business insights. I'm passionate about AI Governance, Business Forecasting, and Natural Science."
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/joel-laskow"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jlaskow"
-
 footer:
   links:
     - label: "LinkedIn"
