@@ -5,7 +5,7 @@ title: ""
 author_profile: true
 ---
 
-*I hold a graduate degree in Data Science, backed by hands-on experience in both education and emergency medical services. This unique combination gives me a people-centered lens on technical problem-solving. I'm a certified teacher in Arizona, and I'm currently pursuing licensure in neighboring states. Alongside my data work, I regularly design and share classroom resources—worksheets and lesson plans that aim to make learning engaging, flexible, and genuinely fun.*
+*I hold a graduate degree in Data Science, backed by hands-on experience in both education and emergency medical services. This unique combination gives me a people-centered lens on technical problem-solving. I'm a certified teacher in Arizona, and I'm currently pursuing licensure in neighboring states. Alongside my data work, I regularly design and share classroom resources, worksheets and lesson plans that aim to make learning engaging, flexible, and genuinely fun.*
 
 
 # Top Skills
