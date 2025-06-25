@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Resume"
+title: false
 permalink: /resume/
 author_profile: true
 classes: wide
