@@ -6,18 +6,6 @@ author_profile: true
 classes: wide
 ---
 
----
-
-## Education
-
-- **Master of Science in Data Science**  
-  *Southern Methodist University* — *Current Candidate*
-
-- **Bachelor of Science in Microbiology, Immunology, & Molecular Genetics**  
-  *University of California, Los Angeles (UCLA)* — *2018*
-
----
-
 ##  Technical Skills
 
 | **Category**   | **Skills**                                                                                                                                     |
