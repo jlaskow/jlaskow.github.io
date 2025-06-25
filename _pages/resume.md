@@ -49,6 +49,3 @@ classes: wide
 *Sierra College* — *Feb 2014 – Aug 2015*  
 - Tutored STEM subjects including Physics, Chemistry, Biology, Algebra, and English.  
 - Trained new tutors and worked with students with disabilities.
-
-## Download My PDF Resume  
-[⬇️ Download PDF Version](/assets/files/Joel_Laskow_Resume.pdf){: .btn .btn--primary }
