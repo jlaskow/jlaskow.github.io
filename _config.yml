@@ -45,7 +45,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jlaskow"
-    - label: "Download PDF Resume"
+    - label: "Download Full PDF Resume"
       icon: "fas fa-fw fa-file"
       url: "/assets/files/Joel_Laskow_Resume.pdf"
 
