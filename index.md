@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome"
+title: false
 author_profile: false
 ---
 
