@@ -1,9 +1,10 @@
 ---
 layout: single
-title: false
+title: "Resume"
 permalink: /resume/
 author_profile: true
-classes: wide
+sidebar:
+  nav: custom-sidebar
 ---
 
 ## Professional Experience
