@@ -8,12 +8,6 @@ classes: wide
 
 ---
 
-## Professional Summary
-
-A passionate educator and experienced data scientist with advanced problem-solving and analytical skills. Highly personable, with extensive experience designing differentiated lesson plans that inspire curiosity and accommodate diverse learning styles. Leverages experience in emergency medicine, lab research, and data analytics to connect educational topics to real-world scenarios, with an emphasis on job market skills in an AI-driven world. Expertise in machine learning, statistical analysis, and modern AI tools.
-
----
-
 ## Education
 
 - **Master of Science in Data Science**  
@@ -71,31 +65,6 @@ A passionate educator and experienced data scientist with advanced problem-solvi
 - Trained new EMTs on testing procedures.  
 - Managed patient data with HIPAA compliance.
 
----
-
-### **Research Assistant**  
-*Modlin Lab, UCLA* — *Jun 2017 – Mar 2018*  
-- Designed protocols for PBMC isolation.  
-- Practiced biosafety and presented research findings.
-
----
-
-### **Student Researcher**  
-*SEA-PHAGES, UCLA* — *Mar 2017 – Dec 2017*  
-- Analyzed viral genetics and morphology of mycobacteriophages.  
-
----
-
-### **Tutor**  
-*Sierra College* — *Feb 2014 – Aug 2015*  
-- Tutored STEM subjects including Physics, Chemistry, Biology, Algebra, and English.  
-- Trained new tutors and worked with students with disabilities.
-
----
-
-## References
-
-Available upon request.
 
 ---
 
