@@ -21,10 +21,22 @@ github_username: jlaskow
 minimal_mistakes_skin: neon
 search: true
 
+
+
 author:
   name   : "Joel Laskow"
   avatar : "/assets/images/profile_image.jpg"
-  bio    : "Data Scientist • Educator • Analyst"
+  bio    : |
+    **Data Scientist • Analyst • Educator**  
+    *M.S. Data Science, SMU (In Progress)*  
+    *B.S. Microbiology, UCLA (2018)*  
+
+    **Languages:** Python, R, SQL, Excel  
+    **ML:** XGBoost, Random Forest, Naive Bayes, Regression  
+    **Viz:** D3.js, DC.js, Tableau, Looker  
+    **Cloud & Tools:** AWS, TensorFlow, Jupyter, Git, GitHub  
+
+
   email: "joellaskow@gmail.com"
   links:
     - label: "LinkedIn"
@@ -33,6 +45,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jlaskow"
+    - label: "Download PDF Resume"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/files/Joel_Laskow_Resume.pdf"
 
 
 
