@@ -21,11 +21,11 @@ github_username: jlaskow
 minimal_mistakes_skin: neon
 search: true
 
-
 author:
   name   : "Joel Laskow"
   avatar : "/assets/images/profile_image.jpg"
-  bio    : "Data scientist with a passion for AI governance, forecasting, and education."
+  bio    : "Data Scientist • Educator • Analyst"
+  email: "joellaskow@gmail.com"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -33,7 +33,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jlaskow"
-
 
 
 
