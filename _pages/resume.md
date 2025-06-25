@@ -1,21 +1,9 @@
 ---
 layout: single
-title: "Resume"
+title: false
 permalink: /resume/
 author_profile: true
 classes: wide
----
-
-##  Technical Skills
-
-| **Category**   | **Skills**                                                                                                                                     |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**  | Python, R, SQL, Excel (Advanced)                                                                                                               |
-| **ML Methods** | KNN, Naive Bayes, Random Forest, Linear Regression, Ensembling, Feature Selection                                                             |
-| **Data Work**  | Data Cleaning, Pipelines, Modeling, Predictive Insights                                                                                        |
-| **Visualization** | D3.js, DC.js, Tableau, Looker, Artistic Data Visuals                                                                                       |
-| **Cloud & Tools** | AWS, TensorFlow, TensorBoard, Jupyter, Git, GitHub                                                                                          |
-
 ---
 
 ## Professional Experience
